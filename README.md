@@ -32,3 +32,6 @@ The compiler will process the input source code and generate an intermediate rep
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to add tests for any new features or bug fixes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
